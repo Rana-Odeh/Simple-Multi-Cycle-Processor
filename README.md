@@ -1,4 +1,4 @@
-# COMPUTER ARCHITECTURE
+# COMPUTER ARCHITECTURE - Project
 ## To design and verify a simple multi RISC processor in Verilog
 
 ## **Processor Specifications :**
