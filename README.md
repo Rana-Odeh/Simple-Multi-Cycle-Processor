@@ -1,7 +1,7 @@
 # Simple Multi Cycle Processor
 ## To design and verify a simple multi RISC processor in Verilog
 
-**Processor Specifications:**
+## **Processor Specifications:**
 1. The instruction size and the words size is 32 bits.
 2. 16 32-bit general-purpose registers: from R0 to R15.
 3. 32-bit special purpose register for the program counter (PC)
@@ -17,7 +17,7 @@
 9. Word-addressable memory
 10. You need to generate the required signals from the ALU to calculate the condition branch outcome (taken/ not taken). These signals might include zero, carry, overflow, etc.
 
-**Instruction Types and Formats :**
+## **Instruction Types and Formats :**
 
 **1 :**
 
@@ -39,11 +39,11 @@
 
 
 
-**Datapath:**
+## **Datapath:**
 ![DATA1 (5)](https://github.com/Rana-Odeh/ENCS4370-project2/assets/144602671/8a16f809-c862-4c41-bb53-536ab78c08a2)
 
-**State Diagram:**
+## **State Diagram:**
 ![gg (2)](https://github.com/Rana-Odeh/ENCS4370-project2/assets/144602671/c9cb5c2f-c111-41e1-9391-aa923a4780b0)
 
 
-**Test Case :**
+## **Test Case :**
