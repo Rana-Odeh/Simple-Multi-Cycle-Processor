@@ -18,13 +18,21 @@
 10. You need to generate the required signals from the ALU to calculate the condition branch outcome (taken/ not taken). These signals might include zero, carry, overflow, etc.
 
 **Instruction Types and Formats :**
+
 **1 :**
+
 ![image](https://github.com/Rana-Odeh/ENCS4370-project2/assets/144602671/064aa772-ea86-4209-a17b-2b5cffec535e)
+
 **2 :**
+
 ![image](https://github.com/Rana-Odeh/ENCS4370-project2/assets/144602671/454ebf9e-6eb9-4f77-bd51-ba426bcb30c2)
+
 **3 :**
+
 ![image](https://github.com/Rana-Odeh/ENCS4370-project2/assets/144602671/a1d3e9a1-b09b-4503-929c-21ee83ab3f2c)
+
 **4 :**
+
 ![image](https://github.com/Rana-Odeh/ENCS4370-project2/assets/144602671/10f83bdb-cdbb-49bb-b909-a1c9416a7207)
 
 
