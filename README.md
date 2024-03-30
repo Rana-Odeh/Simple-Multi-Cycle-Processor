@@ -1,4 +1,4 @@
-# Simple Multi Cycle Processor
+# COMPUTER ARCHITECTURE
 ## To design and verify a simple multi RISC processor in Verilog
 
 ## **Processor Specifications :**
